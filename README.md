@@ -1,2 +1,2 @@
 Installation des dépendances 
-[] npm install --force
+npm install --force
